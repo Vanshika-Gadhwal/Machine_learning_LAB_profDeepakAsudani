@@ -1,31 +1,17 @@
-# 🤖 Machine Learning Laboratory
+# Machine Learning Laboratory
 
 **7th Semester - Machine Learning Lab Experiments**
-
-[![GitHub](https://img.shields.io/badge/GitHub-priyanshu--deshmukh-181717?logo=github)](https://github.com/priyanshu-deshmukh)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-
 ---
 
-## 👨‍🎓 Student Information
+##  Student Information
 
-**Name:** Priyanshu Deshmukh  
+**Name:** Vanshika Gadhwal 
 **Semester:** 7th  
 **Subject:** Machine Learning Laboratory  
-
-### 🔗 Connect with Me
-- GitHub: [@priyanshu-deshmukh](https://github.com/priyanshu-deshmukh)
-- Website: [priyanshudeshmukh.in](https://www.priyanshudeshmukh.in)
-- Email: [priyanshudeshmukh2022@gmail.com](priyanshudeshmukh2022@gmail.com)
-
 ---
-
 **Faculty:** Mr. Deepak Asudani  
-
 ---
-
-## 📚 About This Repository
+##  About This Repository
 
 This repository contains all the practical experiments and assignments completed during the Machine Learning Laboratory course in the 7th semester. The experiments cover fundamental to advanced concepts in machine learning, implemented using Python and popular ML libraries.
 
@@ -53,61 +39,11 @@ ML-Lab/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
 
----
 
-## 🛠️ Technologies & Libraries
+ ```
 
-### Core Libraries
-- **NumPy** - Numerical computing
-- **Pandas** - Data manipulation and analysis
-- **Matplotlib** - Data visualization
-- **Seaborn** - Statistical data visualization
 
-### Machine Learning
-- **scikit-learn** - Machine learning algorithms
-- **mlxtend** - Machine learning extensions (Apriori, association rules)
-
-### Development Environment
-- **Jupyter Notebook** - Interactive development environment
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.8 or higher
-- pip (Python package installer)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/priyanshu-deshmukh/ML-Lab.git
-   cd ML-Lab
-   ```
-
-2. **Create a virtual environment (recommended)**
-   ```bash
-   python -m venv venv
-   
-   # Windows
-   .\venv\Scripts\activate
-   
-   # Linux/Mac
-   source venv/bin/activate
-   ```
-
-3. **Install required packages**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Launch Jupyter Notebook**
-   ```bash
-   jupyter notebook
-   ```
 
 ---
 
@@ -133,54 +69,6 @@ ML-Lab/
 
 
 ---
-
-## 📝 Usage
-
-Each lab folder contains Jupyter notebooks with:
-- Problem statements
-- Code implementation
-- Outputs and visualizations
-- Explanations and observations
-
-To run any experiment:
-1. Navigate to the respective lab folder
-2. Open the `.ipynb` file in Jupyter Notebook
-3. Run cells sequentially (Shift + Enter)
-
----
-
-## 🤝 Contributing
-
-This is an academic repository. If you find any issues or have suggestions:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -m 'Add improvement'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙏 Acknowledgments
-
-- **Mr. Deepak Asudani** - Faculty guide and mentor
-- **College/University Name** <!-- Add your institution name -->
-- scikit-learn and Python community for excellent documentation
-
----
-
-## 📧 Contact
-
-For any queries or discussions related to this repository:
-
-**Priyanshu Deshmukh**  
-📧 Email: [priyanshudeshmukh2022@gmail.com](priyanshudeshmukh2022@gmail.com)  
-🔗 GitHub: [@priyanshu-deshmukh](https://github.com/priyanshu-deshmukh)
 
 ---
 

@@ -17,28 +17,6 @@ This repository contains all the practical experiments and assignments completed
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-ML-Lab/
-├── Lab-1/          # Introduction to ML & Naive Bayes
-├── Lab-2/          # ML Libraries (NumPy, Pandas, Matplotlib, Seaborn)
-├── Lab-3/          # Data Cleaning & Preprocessing
-├── Lab-4/          # K-Nearest Neighbors (KNN) & PCA
-├── Lab-5/          # KNN Classification
-├── Lab-6/          # Decision Trees
-├── Lab-7/          # Naive Bayes Classifier
-├── Lab-8/          # Random Forest & Decision Trees
-├── Lab-9/          # Linear Regression
-├── Lab-10/         # Linear Regression (Advanced)
-├── Lab-11/         # Logistic Regression
-├── Lab-12/         # Polynomial Regression
-├── Lab-13/         # K-Means Clustering
-├── Lab-14/         # Association Rule Mining (Apriori)
-├── Lab-15/         # Artificial Neural Network
-├── requirements.txt
-├── .gitignore
-└── README.md
 
 
  ```
@@ -73,9 +51,5 @@ ML-Lab/
 ---
 
 <div align="center">
-  
-**⭐ Star this repository if you found it helpful!**
-
-Made with ❤️ by Priyanshu Deshmukh
-
+ 
 </div>

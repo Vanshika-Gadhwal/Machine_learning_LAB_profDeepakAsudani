@@ -17,12 +17,6 @@ This repository contains all the practical experiments and assignments completed
 
 ---
 
-
-
- ```
-
-
-
 ---
 
 ## 📖 Lab Experiments Overview
